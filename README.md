@@ -87,21 +87,14 @@
 <table style="border: none;">
   <tr>
     <td style="border: none;">
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tifan9&show_icons=true&locale=en&layout=compact" alt="tifan9" />
-      </p>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tifan9&show_icons=true&locale=en&layout=compact" alt="tifan9" />
     </td>
     <td style="border: none;">
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=tifan9&show_icons=true&locale=en" alt="tifan9" />
-      </p>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=tifan9&show_icons=true&locale=en" alt="tifan9" />
     </td>
     <td style="border: none;">
-      <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=tifan9&" alt="tifan9" />
-      </p>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tifan9" alt="tifan9" />
     </td>
   </tr>
 </table>
-
 
