@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uwase Sophie</h1>
 <h3 align="center">A passionate backend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif"><br>
+<!-- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif"><br> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tifan9&label=Profile%20views&color=0e75b6&style=flat" alt="tifan9" /> </p>
 - 🌱 I’m currently learning **React Js, Java, Spring Boot, Docker, Next js,**
@@ -17,9 +17,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-<!--   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" class="icon-link" style="margin-right: 10px;">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" class="icon-link" style="margin-right: 10px;">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/>
-  </a> -->
+  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" class="icon-link" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>
   </a>
