@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Uwase Sophie</h1>
-<h3 align="center">A passionate backend developer</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif"><br> -->
+<div align="center">✨ Hi there! I'm Uwase Sophie ✨</div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer+%F0%9F%9A%80;Java+Enthusiast+%E2%98%95;Building+Amazing+APIs+%F0%9F%94%A7;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400"/>
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tifan9&label=Profile%20views&color=0e75b6&style=flat" alt="tifan9" /> </p>
 - 🌱 I’m currently learning **React Js, Java, Spring Boot, Docker, Next js,**
