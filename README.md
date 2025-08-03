@@ -3,20 +3,21 @@
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer+%F0%9F%9A%80;Java+Enthusiast+%E2%98%95;Building+Amazing+APIs+%F0%9F%94%A7;Always+Learning+%F0%9F%93%9A;Spring+Boot+Developer+%F0%9F%8C%B1;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" /> </div> <div align="center"> <img  alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">  </div> <div align="center"> <img src="https://komarev.com/ghpvc/?username=tifan9&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/tifan9?label=Followers&style=for-the-badge&color=6366f1" alt="GitHub Followers" /> <img src="https://img.shields.io/badge/Focus-Backend%20Development-6366f1?style=for-the-badge" alt="Focus" /> </div> 
  
 🎯 About Me
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"> 
-const sophie = {
-    pronouns: "She/Her",
-    location: "Kigali, Rwanda 🇷🇼",
-    currentRole: "Backend Developer",
-    currentFocus: "Spring Boot & Microservices",
-    techStack: ["Java", "Spring Boot", "React", "Docker"],
-    databases: ["PostgreSQL", "MySQL", "MongoDB"],
-    learning: ["Next.js", "Kubernetes", "AWS"],
-    passion: "Building scalable applications",
-    funFact: "I debug with coffee ☕",
-    motto: "Code, Learn, Repeat 🔄",
-    openToWork: true
-};
+
+
+| Key           | Value |
+|---------------|-------|
+| Pronouns      | She/Her |
+| Location      | Kigali, Rwanda 🇷🇼 |
+| Current Role  | Backend Developer |
+| Current Focus | Spring Boot & Microservices |
+| Tech Stack    | Java, Spring Boot, React, Docker |
+| Databases     | PostgreSQL, MySQL, MongoDB |
+| Learning      | Next.js, Kubernetes, AWS |
+| Passion       | Building scalable applications |
+| Fun Fact      | I debug with coffee ☕ |
+| Motto         | Code, Learn, Repeat 🔄 |
+| Open to Work  | Yes |
 🌱 What I'm Currently Learning:
 •	Frontend: React.js, Next.js, TypeScript
 •	Backend: Advanced Spring Boot, Microservices Architecture
