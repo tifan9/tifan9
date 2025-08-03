@@ -4,74 +4,12 @@
  
 🎯 About Me
 
-
-| Key           | Value |
-|---------------|-------|
-| Pronouns      | She/Her |
-| Location      | Kigali, Rwanda 🇷🇼 |
-| Current Role  | Backend Developer |
-| Current Focus | Spring Boot & Microservices |
-| Tech Stack    | Java, Spring Boot, React, Docker |
-| Databases     | PostgreSQL, MySQL, MongoDB |
-| Learning      | Next.js, Kubernetes, AWS |
-| Passion       | Building scalable applications |
-| Fun Fact      | I debug with coffee ☕ |
-| Motto         | Code, Learn, Repeat 🔄 |
-| Open to Work  | Yes |
-🌱 What I'm Currently Learning:
-•	Frontend: React.js, Next.js, TypeScript
-•	Backend: Advanced Spring Boot, Microservices Architecture
-•	DevOps: Docker, Kubernetes, CI/CD pipelines
-•	Cloud: AWS Services, Serverless Computing
-•	Databases: Advanced PostgreSQL, Redis
-💼 What I Do:
-•	🔧 Build robust RESTful APIs
-•	🏗️ Design scalable backend architectures
-•	🔐 Implement secure authentication systems
-•	📊 Optimize database performance
-•	🐳 Containerize applications with Docker
-💬 Ask Me About:
-•	☕ Java & Spring Boot ecosystem
-•	🏛️ Backend architecture patterns
-•	🔗 API design and development
-•	🗄️ Database design and optimization
-•	🧪 Test-driven development
-📫 How to Reach Me:
-•	📧 Email: uwasesophie101@gmail.com
-•	💼 LinkedIn: uwase-sophie
-•	🐙 GitHub: @tifan9
-⚡ Fun Facts:
-•	🌍 Based in beautiful Kigali, Rwanda
-•	🎯 I love solving complex algorithmic problems
-•	📚 Always reading tech blogs and documentation
-•	🎵 I code better with Lo-fi music
-•	🌱 Passionate about clean code and best practices
- 
-🛠️ Tech Stack & Tools
-<div align="center"> 
-💻 Programming Languages
-      
-🚀 Frameworks & Libraries
-      
-🗄️ Databases
-     
-☁️ Cloud & DevOps
-     
-🛠️ Development Tools
-      
-🧪 Testing & Quality
-   
-</div> 
- 
-🌟 GitHub Analytics & Statistics
 <div align="center"> <h3>📊 Profile Overview</h3> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tifan9&theme=tokyonight" alt="Profile Summary" /> </div> <div align="center"> <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=tifan9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=58A6FF&count_private=true&include_all_commits=true" alt="GitHub Stats" /> </td> <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tifan9&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B35&currStreakLabel=C9D1D9&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" /> </td> </tr> </table> </div> <div align="center"> <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tifan9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" alt="Top Languages" /> </td> <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tifan9&theme=tokyonight" alt="Most Used Languages" /> </td> </tr> </table> </div> 
  
 🎨 Contribution Activity
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=tifan9&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=58A6FF&point=C9D1D9&area=true&hide_title=false" alt="Contribution Graph" /> </div> 
  
-🏆 GitHub Achievements & Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=tifan9&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" /> </div> 
- 
+
 📈 Coding Activity & Insights
 <div align="center"> <table> <tr> <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tifan9&theme=tokyonight" alt="Repos per Language" /> </td> <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tifan9&theme=tokyonight&utc_offset=2" alt="Productive Time" /> </td> </tr> </table> </div> 
  
